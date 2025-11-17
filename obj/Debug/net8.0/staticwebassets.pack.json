@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CondoHub.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CondoHub.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\css\\contracts.css",
+      "PackagePath": "staticwebassets\\css\\contracts.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\css\\sidebar.css",
+      "PackagePath": "staticwebassets\\css\\sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\comprovantes\\588d6908-d953-4091-9019-d134dcfc0716.JPG",
+      "PackagePath": "staticwebassets\\uploads\\comprovantes\\588d6908-d953-4091-9019-d134dcfc0716.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\03d8e63b-b761-4008-acf2-dc17b2604036.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\03d8e63b-b761-4008-acf2-dc17b2604036.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\08a3db18-3b67-46a3-97e8-0c850718dac4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\08a3db18-3b67-46a3-97e8-0c850718dac4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\0e7409b6-d79c-4a39-b5b6-f01b00a398be.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\0e7409b6-d79c-4a39-b5b6-f01b00a398be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\105b15e0-6105-4f4d-ba8f-034072f7136c.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\105b15e0-6105-4f4d-ba8f-034072f7136c.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\15261db1-8348-46d7-b266-0265f378d939.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\15261db1-8348-46d7-b266-0265f378d939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\2493aa18-24e1-4ef9-b250-cb0403e1036a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\2493aa18-24e1-4ef9-b250-cb0403e1036a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\302779b6-00ca-43ea-ae64-40306a13cc9d.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\302779b6-00ca-43ea-ae64-40306a13cc9d.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\363afcb0-d3df-4f98-94f7-289cf32a1d86.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\363afcb0-d3df-4f98-94f7-289cf32a1d86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\5029fd48-adf1-411b-99b6-59a0673bf698.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\5029fd48-adf1-411b-99b6-59a0673bf698.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\51ef27ad-2c82-4b41-bdb3-c252fed54c7f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\51ef27ad-2c82-4b41-bdb3-c252fed54c7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\559a1f75-fe25-4e66-98de-1c82fdffb660.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\559a1f75-fe25-4e66-98de-1c82fdffb660.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\576086de-23c5-4d31-9541-0adbd71c4325.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\576086de-23c5-4d31-9541-0adbd71c4325.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\5b405257-2ed1-4977-a8bd-41c0351c232e.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\5b405257-2ed1-4977-a8bd-41c0351c232e.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\6773e4fa-e053-4bfb-bf0c-62c2d2f40ac1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\6773e4fa-e053-4bfb-bf0c-62c2d2f40ac1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\687b3e93-4321-4943-a3f7-d7131fc9458a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\687b3e93-4321-4943-a3f7-d7131fc9458a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\702e5cd8-338a-4b61-90ef-592e9da9b0a5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\702e5cd8-338a-4b61-90ef-592e9da9b0a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\7392d52c-31fc-41df-bd41-28cc3c82b433.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\7392d52c-31fc-41df-bd41-28cc3c82b433.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\7f554ae9-8727-48a0-921b-dff35904d231.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\7f554ae9-8727-48a0-921b-dff35904d231.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\a1171e42-05d3-4c2d-bf40-965d80099044.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\a1171e42-05d3-4c2d-bf40-965d80099044.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\a2e37d3e-af67-4cd3-b137-b15931e63954.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\a2e37d3e-af67-4cd3-b137-b15931e63954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\a4e519df-b52f-4dc9-997c-7f50526042c1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\a4e519df-b52f-4dc9-997c-7f50526042c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\a5b60da9-6cc3-49c3-baf8-fefb5917c77f.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\a5b60da9-6cc3-49c3-baf8-fefb5917c77f.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\b161b5e8-8af2-422c-8ed2-acf8ecaf291c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\b161b5e8-8af2-422c-8ed2-acf8ecaf291c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\b99edc6c-e00e-4ba2-aa69-1d5e9212fe8d.webp",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\b99edc6c-e00e-4ba2-aa69-1d5e9212fe8d.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\ba694553-469e-47ca-8d24-ae7d568e885c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\ba694553-469e-47ca-8d24-ae7d568e885c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\c2c0c2e8-0a94-4631-8d6c-6ccdb4888b78.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\c2c0c2e8-0a94-4631-8d6c-6ccdb4888b78.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\c4f7c10e-d237-4c6c-8656-81e4e1705bdd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\c4f7c10e-d237-4c6c-8656-81e4e1705bdd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\ccd6a63c-3c96-4dd9-980e-4f6bfefcb7bc.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\ccd6a63c-3c96-4dd9-980e-4f6bfefcb7bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\e1411dd9-3327-4677-b03b-67cdd77fde4d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\e1411dd9-3327-4677-b03b-67cdd77fde4d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\e1f3f17a-3162-4cff-a5ca-cd03b1d83204.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\e1f3f17a-3162-4cff-a5ca-cd03b1d83204.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\e3d1627a-3a9a-494e-bd2d-2e84fd90aa8e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\e3d1627a-3a9a-494e-bd2d-2e84fd90aa8e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\ef556fac-8755-4fd0-84d2-13fa664e98b5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\ef556fac-8755-4fd0-84d2-13fa664e98b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\fd03cff6-31f2-4659-aaa1-1cdc619a4e5d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\fd03cff6-31f2-4659-aaa1-1cdc619a4e5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\fe158ca5-25df-4e86-b705-8577acea4a09.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\fe158ca5-25df-4e86-b705-8577acea4a09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\fe9e0ce4-bd39-4c67-b5e7-00bf325b521f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\fe9e0ce4-bd39-4c67-b5e7-00bf325b521f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\CondoHub\\wwwroot\\uploads\\vistorias\\ff1cdbe9-2420-408d-ac45-856d5cc44a96.jpg",
+      "PackagePath": "staticwebassets\\uploads\\vistorias\\ff1cdbe9-2420-408d-ac45-856d5cc44a96.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CondoHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CondoHub.props",
+      "PackagePath": "build\\CondoHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CondoHub.props",
+      "PackagePath": "buildMultiTargeting\\CondoHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CondoHub.props",
+      "PackagePath": "buildTransitive\\CondoHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
